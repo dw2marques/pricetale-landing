@@ -16,8 +16,8 @@ In a market with fluctuating book prices and multiple retailers, finding the bes
 
 ## 🛠 Tech Stack (Project)
 
-- **Mobile App:** [Insert here: e.g., React Native / Flutter / Swift]
-- **Backend/API:** [Insert here: e.g., Node.js / Python]
+- **Mobile App:** [Flutter]
+- **Backend/API:** [Node.js]
 - **Data Integration:** Official Affiliate Feeds (Awin Network).
 - **Landing Page:** HTML5, Tailwind CSS, hosted via GitHub Pages.
 
